@@ -9,7 +9,7 @@
 
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hadisheydari&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadisheydari&layout=compact&hide=c)](https://github.com/hadisheydari/github-readme-stats)
 
 ## 🌐 Activity Graph
 [![Hadisheydari's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hadisheydari)](https://github.com/hadisheydari/github-readme-activity-graph)

@@ -5,7 +5,7 @@
 - 🌱 Currently learning Git and contributing to open-source projects
 
 ## 🚀 My Projects
-- [Project 1](https://github.com/hadisheydari/exambuilder):
+- [Exam-builder](https://github.com/hadisheydari/exambuilder):
 
 
 ## 📊 GitHub Stats

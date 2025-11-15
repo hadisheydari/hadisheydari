@@ -80,6 +80,16 @@ A comprehensive online exam management platform built with Laravel and Tailwind 
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hadisheydari&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🎯 Currently Learning
 
 - Advanced Git workflows
